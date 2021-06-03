@@ -29,3 +29,5 @@ Todos a bordo desse foguete!
 
 👯 Busco contribuir para empresas com ótima cultura e pessoas incríveis!
 📫 Você pode me encontrar em: lrlodi@gmail.com or https://www.linkedin.com/in/luciano-lodi/ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrlodi)](https://github.com/lrlodi/github-readme-stats)

@@ -1,3 +1,4 @@
+🇺🇸
 Welcome to my Github Profile! 👋😄
 
 I'm Luciano, but you can call me by my last name: Lodi. I'm 33 years old, I'm a cat lover, married to a wonderful wife, a bit of a nerd and a bit of a gamer, a bit crazy about plants. 
@@ -10,6 +11,8 @@ I'm a very interested person in everything I'm doing, I always try to learn from
 📫 You can reach me on: lrlodi@gmail.com or https://www.linkedin.com/in/luciano-lodi/ 
 
 
+
+🇧🇷
 Bem vindo ao meu perfil do Github!
 
 Eu sou o Luciano, mas pode me chamar pelo meu sobrenome: Lodi.
